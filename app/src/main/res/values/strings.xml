@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">study</string>
+    <string name="bookshelf">书架</string>
+    <string name="free">免费</string>
+    <string name="bookstore">书城</string>
+    <string name="writer">原创</string>
+    <string name="me">我的</string>
+</resources>
